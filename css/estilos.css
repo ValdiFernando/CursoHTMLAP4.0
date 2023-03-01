@@ -1,0 +1,39 @@
+body{
+  background-color: rgb(248,216,221);
+}
+
+
+header{
+    background-color: lightcyan;
+    border: 20px double red;
+    padding: 5px;
+    font-family: Arial;
+    padding: 10px;
+}
+
+.main{
+width: 75%;
+float: left;
+border: 5px;
+}
+
+.menu{
+    margin: 20px;
+    width: 15%;
+    float:left;
+    border: 10px dashed black;
+    padding: 15px;
+}
+
+h1{
+    font-family: 'Shantell Sans', cursive;
+    font-family: 'Tilt Prism', cursive;
+}
+
+.imagen{
+
+}
+
+p, h4{
+    text-align: justify;
+}
